@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xaramson
 - 👀 I’m interested in ...Web & software deveolopment
-- 🌱 I’m currently learning ...Web development
+- 🌱 I’m currently learning ...Web development and Cybersecuirty
 - 💞️ I’m looking to collaborate on ...web development projecrs
 - 📫 How to reach me ...zaramson@gmail.com
 
